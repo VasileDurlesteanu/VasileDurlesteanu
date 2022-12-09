@@ -27,6 +27,7 @@ These are some of the technologies and tools that I work with with:
 
 ### 👯 Technologies and tools that I am familiar with (aka What I've touched): 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
