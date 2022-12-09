@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Vasile Durlesteanu.  
-I'm a Frontend Developer at Code Factory Group part of Software Mind. 
+I'm a Frontend Developer at Code Factory Group part of Software Mind.  
 I'm working in tech since 2021.
 
 [![Linkedin: Vasile Durlesteanu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/vvd888/)
