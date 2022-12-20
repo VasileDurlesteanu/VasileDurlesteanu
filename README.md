@@ -4,7 +4,7 @@ I'm a Frontend Developer at Code Factory Group 🏭 part of Software Mind 🏢.
 I'm working in tech since 2021.
 
 🌱 Aspiring to become a ![JS](https://img.shields.io/badge/-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) Ninja 🎎  
-    By strengthening JS skills 🔧 and understanding under-the-hood processes
+    By strengthening JS skills 🛠 and understanding under-the-hood processes
 
 [![Linkedin: Vasile Durlesteanu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/vvd888/)
 
@@ -25,7 +25,7 @@ These are some of the technologies and tools that I work with with:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 👯 Technologies and tools that I am familiar with (aka What I've touched): 
+### 👨‍🔧 Technologies and tools that I am familiar with (aka What I've touched): 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
