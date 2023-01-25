@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Vasile Durlesteanu.  
+I'm Vasile Durlesteanu 
 I'm a Frontend Developer at Code Factory Group 🏭 part of Software Mind 🏢.  
 I'm working in tech since 2021.
 
