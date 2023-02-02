@@ -35,7 +35,7 @@ These are some of the technologies and tools that I work with with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
 <!--
-**VasileDurlesteanu/VasileDurlesteanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+**VasileDurlesteanu/VasileDurlesteanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
