@@ -5,6 +5,8 @@ I'm working in tech since 2021
 
 🌱 Continuously learning in order to strengthen my software development skills 🛠.
 
+
+My Linkedin account  
 [![Linkedin: Vasile Durlesteanu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/vvd888/)
 
 ## ⚡ Technologies
